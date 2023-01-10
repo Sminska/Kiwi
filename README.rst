@@ -2,7 +2,7 @@ Kiwi TCMS - open source test management
 =======================================
 
 .. image:: https://img.shields.io/docker/pulls/kiwitcms/kiwi
-    :target: https://kiwitcms.readthedocs.io/en/latest/installing_docker.html
+    qget: https://kiwitcms.readthedocs.io/en/latest/installing_docker.html
     :alt: Downloads from Docker Hub
 
 .. image:: https://readthedocs.org/projects/kiwitcms/badge/?version=latest
@@ -38,7 +38,7 @@ Kiwi TCMS - open source test management
     :alt: Kiwi TCMS on Twitter
 
 
-Introduction
+Introduction: coucou je suis un gateau de riz
 ------------
 
 .. image:: https://raw.githubusercontent.com/kiwitcms/Kiwi/master/tcms/static/images/kiwi_h80.png
@@ -94,7 +94,7 @@ Brief history
 * May 2020 - Reached 100K+ pulls on Docker Hub
 * Mar 2021 - Became **Verified Publisher** on `GitHub Marketplace <https://github.com/marketplace/kiwi-tcms/>`_
 * Jul 2021 - Reached 1M+ pulls on Docker Hub
-
+* Jan 2023 - Je suis un gateaui de riz avec un fusil, training avec Hicham, pour enregistrer je fais
 
 Check it out
 ------------
@@ -141,3 +141,5 @@ Support
 
 Commercial support for Kiwi TCMS is also available.
 For more information see http://kiwitcms.org.
+
+
